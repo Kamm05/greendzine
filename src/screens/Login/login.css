@@ -1,0 +1,11 @@
+input {
+  background: #1f191966 0% 0% no-repeat padding-box;
+  box-shadow: inset 0px 3px 3px #fffdfd40, 3px 3px 3px #4a494947;
+  border-radius: 18px;
+  color: gray;
+  height: 42px;
+  width: 230px;
+  font-size: 14px;
+  border: none;
+  outline: none;
+}

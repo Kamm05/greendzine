@@ -1,0 +1,17 @@
+.btn {
+  width: 238px;
+  height: 42px;
+  /* UI Properties */
+  background: transparent
+    linear-gradient(180deg, #00ff2580 0%, #000000 100%, #36a54680 100%) 0% 0%
+    no-repeat padding-box;
+  mix-blend-mode: normal;
+  border: 2px solid #8cff0026;
+  border-radius: 14px;
+  text-align: center;
+  color: #ffffff8c;
+  padding: 10px auto;
+  font-weight: bold;
+
+  font-size: 16px;
+}
