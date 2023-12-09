@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/greendzine/static/css/main.9d8b9493.css",
+    "main.js": "/greendzine/static/js/main.dd2070a9.js",
+    "index.html": "/greendzine/index.html",
+    "main.9d8b9493.css.map": "/greendzine/static/css/main.9d8b9493.css.map",
+    "main.dd2070a9.js.map": "/greendzine/static/js/main.dd2070a9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d8b9493.css",
+    "static/js/main.dd2070a9.js"
+  ]
+}
